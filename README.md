@@ -57,3 +57,8 @@ Para ejecutar este proyecto, sigue estos pasos:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/FrancoSposetti/pre-entrega1-sposetti.git
+## Notebook en Google Colab
+
+2. Para ejecutar este proyecto, puedes abrir el notebook directamente en Google Colab utilizando el siguiente enlace:
+
+- [Notebook en Google Colab](https://colab.research.google.com/drive/1mrvcGZDCNGnwGQLdFcsGhfW0g3LqLLNl?usp=sharing)
